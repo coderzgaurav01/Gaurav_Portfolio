@@ -9,7 +9,7 @@ export const USER_INFO = {
   year: "Final Year",
   email: "gauravpathak911311@gmail.com",
   linkedin: "https://www.linkedin.com/in/gaurav-pathak-494a2b250/",
-  github: "https://github.com"
+  github: "https://github.com/coderzgaurav01"
 };
 
 export const PROJECTS = [
@@ -18,7 +18,7 @@ export const PROJECTS = [
     title: "E-Commerce Cloud Platform",
     description: "A highly scalable microservices-based e-commerce solution with real-time local vendor booking capabilities.",
     techStack: ["React", "Node.js", "MongoDB", "AWS", "Tailwind"],
-    imageUrl: "src/assets/images.jpeg",
+    imageUrl: "/images.jpeg",
     github: "https://bookingyard.in"
   },
   {
@@ -26,7 +26,7 @@ export const PROJECTS = [
     title: "Medical Diagnosis AI",
     description: "Intelligent diagnosis system leveraging machine learning to identify potential health conditions.",
     techStack: ["Python", "TensorFlow", "Docker","Streamlit"],
-    imageUrl: "src/assets/Medical.jpg",
+    imageUrl: "/Medical.jpg",
     github: "https://github.com/coderzgaurav01/medical-test"
   },
   {
@@ -34,7 +34,7 @@ export const PROJECTS = [
     title: "Smart Campus Management System",
     description: "Real-time tracking and optimization dashboard for Student and Teacher with RAG Based Question Generator.",
     techStack: ["React", "Frappe", "MariaDB", "Fast API"],
-    imageUrl: "src/assets/campuserp.jpg",
+    imageUrl: "/campuserp.jpg",
     github: "#"
   }
 ];
