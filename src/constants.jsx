@@ -27,7 +27,7 @@ export const PROJECTS = [
     description: "Intelligent diagnosis system leveraging machine learning to identify potential health conditions.",
     techStack: ["Python", "TensorFlow", "Docker","Streamlit"],
     imageUrl: "src/assets/Medical.jpg",
-    github: "#"
+    github: "https://github.com/coderzgaurav01/medical-test"
   },
   {
     id: '3',
